@@ -1,0 +1,7 @@
+repositories {
+    jcenter()
+}
+ 
+dependencies {
+    compile 'com.startapp:inapp-sdk:3.7.0'
+}
